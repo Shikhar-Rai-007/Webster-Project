@@ -22,13 +22,6 @@ nav {
   justify-content: space-between;
 }
 
-
-.limitedOffer {
-  font-size: 20px;
-  border-bottom: 2px solid green;
-  cursor: pointer;
-}
-
 .navBottom {
   display: flex;
   align-items: center;
