@@ -27,6 +27,32 @@ const products = [
     title: "Cameras",
     price: 99,
   },
+  {
+    id: 6,
+    title: "Ropes",
+    price: 49,
+  },
+  {
+    id: 7,
+    title: "Scent Tracker",
+    price: 69,
+  },
+  {
+    id: 8,
+    title: "Painkillers",
+    price: 39,
+  },
+  {
+    id: 9,
+    title: "Energy Drinks",
+    price: 29,
+  },
+  {
+    id: 10,
+    title: "Handcuffs",
+    price: 49,
+  },
+
 ];
 
 let choosenProduct = products[0];
